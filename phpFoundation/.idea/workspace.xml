@@ -4,6 +4,7 @@
     <list default="true" id="2525e6f5-98e5-46fc-a4c6-357ff7b7e1b0" name="Default" comment="" />
     <ignored path="phpFoundation.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="is_array.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="is_array.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variable_handling_function/is_array.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="306">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="is_bool.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/variable_handling_function/is_bool.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.32130584" vertical-offset="0" max-vertical-offset="582">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -40,6 +51,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/variable_handling_function/is_array.php" />
+        <option value="$PROJECT_DIR$/variable_handling_function/is_bool.php" />
       </list>
     </option>
   </component>
@@ -186,6 +198,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variable_handling_function/is_array.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="306">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable_handling_function/is_bool.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32130584" vertical-offset="0" max-vertical-offset="582">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />

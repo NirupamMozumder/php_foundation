@@ -8,5 +8,4 @@ echo "\n";
 $no = 'this is a string';
 
 echo is_array($no) ? 'Array' : 'not an Array';
-echo 'A line is added';
 ?>
