@@ -35,8 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Global_Variable/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Global_Variable/get.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.116838485" vertical-offset="0" max-vertical-offset="582">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -59,6 +69,7 @@
         <option value="$PROJECT_DIR$/variable_handling_function/settype.php" />
         <option value="$PROJECT_DIR$/Global_Variable/global.php" />
         <option value="$PROJECT_DIR$/Global_Variable/server.php" />
+        <option value="$PROJECT_DIR$/Global_Variable/get.php" />
       </list>
     </option>
   </component>
@@ -306,6 +317,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Global_Variable/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global_Variable/get.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.116838485" vertical-offset="0" max-vertical-offset="582">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
